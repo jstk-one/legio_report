@@ -1146,7 +1146,7 @@
 
     <script>
         // 관리자가 설정하는 구글 스프레드시트 URL
-        const GOOGLE_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE';
+        const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwdSvoaDFxxmYtzGTv4cO-0q_pFAYz8ZfZaXHR_0nZ7q5JsO-Q4R31peW5Ac_7TnaOV/exec';
 
         // 페이지 로드 시 초기화
         document.addEventListener('DOMContentLoaded', function() {
